@@ -46,7 +46,8 @@
 <h3>Menambahkan Gambar</h3>
 
 <!-- menambahkan gambar pada dokumen -->
-<img src="LOGO_UPB_NEW-1.png" width="300" title="Logo Univeritas Pelita Bangsa">```
+<img src="LOGO_UPB_NEW-1.png" width="300" title="Logo Univeritas Pelita Bangsa">
+```
 
 ![Screenshot (187)](https://github.com/sayaveni04/lab_pemrogramanweb1/assets/115862597/d266c85d-7691-4f54-a8cb-19d89b3cfdd6)
 
